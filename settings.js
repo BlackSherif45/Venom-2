@@ -4,23 +4,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
+global.ownernomer = "263715907468"
+global.ownername = "Milton"
+global.ytname = "Trocate9"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
+global.ownernumber = '263715907468,263712196152,'  //creator number
+global.ownername = 'Milton' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.author = 'Milton\n\nContact: +263715907468'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = "Milton Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
@@ -29,13 +29,13 @@ global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
